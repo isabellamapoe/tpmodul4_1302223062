@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\francisca isabella\\Documents\\SERTIFIKAT\\tpmodul4_1302223062\\tpmodul4_1302223062\\tpmodul4_1302223062.csproj": {}
+    "C:\\Users\\francisca isabella\\Documents\\Shotcut Project\\tpmodul4_1302223062\\tpmodul4_1302223062\\tpmodul4_1302223062.csproj": {}
   },
   "projects": {
-    "C:\\Users\\francisca isabella\\Documents\\SERTIFIKAT\\tpmodul4_1302223062\\tpmodul4_1302223062\\tpmodul4_1302223062.csproj": {
+    "C:\\Users\\francisca isabella\\Documents\\Shotcut Project\\tpmodul4_1302223062\\tpmodul4_1302223062\\tpmodul4_1302223062.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\francisca isabella\\Documents\\SERTIFIKAT\\tpmodul4_1302223062\\tpmodul4_1302223062\\tpmodul4_1302223062.csproj",
+        "projectUniqueName": "C:\\Users\\francisca isabella\\Documents\\Shotcut Project\\tpmodul4_1302223062\\tpmodul4_1302223062\\tpmodul4_1302223062.csproj",
         "projectName": "tpmodul4_1302223062",
-        "projectPath": "C:\\Users\\francisca isabella\\Documents\\SERTIFIKAT\\tpmodul4_1302223062\\tpmodul4_1302223062\\tpmodul4_1302223062.csproj",
+        "projectPath": "C:\\Users\\francisca isabella\\Documents\\Shotcut Project\\tpmodul4_1302223062\\tpmodul4_1302223062\\tpmodul4_1302223062.csproj",
         "packagesPath": "C:\\Users\\francisca isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\francisca isabella\\Documents\\SERTIFIKAT\\tpmodul4_1302223062\\tpmodul4_1302223062\\obj\\",
+        "outputPath": "C:\\Users\\francisca isabella\\Documents\\Shotcut Project\\tpmodul4_1302223062\\tpmodul4_1302223062\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\francisca isabella\\AppData\\Roaming\\NuGet\\NuGet.Config",
